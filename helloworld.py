@@ -1,2 +1,2 @@
-print("Hello world!\n")
+print("Hello world!")
 print("Try to edit the file")
